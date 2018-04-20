@@ -22,10 +22,10 @@ var explanation = {
 }
 
 var end = {
-  winTitle: "wintitle",
-  winText: "wintext",
-  loseTitle: "losetitle",
-  loseText: "losetext"
+  winTitle: "End of the game",
+  winText: "You have finished the interview. But will it be enough? You have started with 500 points, maximum is 1000. Can you do better?",
+  loseTitle: "End of the game",
+  loseText: "You have totally failed"
 }
 
 
@@ -52,4 +52,14 @@ var answer5_2 = 0;
 var answer5_3 = 0;
 
 
+//GAME 5 PERMISSION
+var answer5Perm_1 = 1;
+var answer5Perm_2 = 0;
+var answer5Perm_3 = 1;
+
+//GAME 4 FACEBOOK
+//3,1/4
+var question5F_1 = "What is the most critical setting on Facebook?\nA) Do not play Facebook games\nB) Do not like every page you really like\nC) Distinguish between public and private sharing\nD) Do not take photos of your food daily"
+var question5F_2 = "What is the worst to put on Facebook regarding our game?\nA) Complaining about the job/boss\nB) Drunk photos\nC) Party photos\nD) Personal photos"
+var question5F_3 = "What is the scandal Cambridge Analytica about?\nA) They gathered likes for their pages\nB) They wanted to have some fun\nC) They made academical research in a large scale\nD) They have mined tons of user data to affect elections"
 
